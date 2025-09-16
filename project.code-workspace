@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"name": "spresense",
+			"path": "spresense"
+		},
+		{
+			"name": "myproject",
+			"path": "myproject"
+		}
+	],
+	"settings": {
+		"spresense.sdk.path": "/home/yuto/spresense",
+		"spresense.sdk.tools.path": "/home/yuto/spresense/sdk/tools",
+		"terminal.integrated.env.linux": {
+			"PATH": "/home/yuto/spresenseenv/usr/bin:/home/yuto/.vscode-server/bin/f220831ea2d946c0dcb0f3eaa480eb435a2c1260/bin/remote-cli:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/usr/lib/wsl/lib:/mnt/c/Program Files/Common Files/Oracle/Java/javapath:/mnt/c/Program Files/Oculus/Support/oculus-runtime:/mnt/c/Program Files (x86)/Common Files/Intel/Shared Libraries/redist/intel64/compiler:/mnt/c/Windows/system32:/mnt/c/Windows:/mnt/c/Windows/System32/Wbem:/mnt/c/Windows/System32/WindowsPowerShell/v1.0/:/mnt/c/Windows/System32/OpenSSH/:/mnt/c/Program Files (x86)/NVIDIA Corporation/PhysX/Common:/mnt/c/Program Files/Microsoft SQL Server/150/Tools/Binn/:/mnt/c/Program Files/Microsoft SQL Server/Client SDK/ODBC/170/Tools/Binn/:/mnt/c/Program Files/Git/cmd:/mnt/c/Program Files/dotnet/:/mnt/c/WINDOWS/system32:/mnt/c/WINDOWS:/mnt/c/WINDOWS/System32/Wbem:/mnt/c/WINDOWS/System32/WindowsPowerShell/v1.0/:/mnt/c/WINDOWS/System32/OpenSSH/:/mnt/c/Program Files/NVIDIA Corporation/NVIDIA App/NvDLISR:/mnt/c/Users/irein/AppData/Local/Microsoft/WindowsApps:/mnt/c/Users/irein/AppData/Local/GitHubDesktop/bin:/mnt/c/Users/irein/.dotnet/tools:/mnt/c/Users/irein/AppData/Local/Programs/Microsoft VS Code/bin:/mnt/c/Users/irein/AppData/Roaming/Programs/Zero Install:/snap/bin"
+		},
+		"spresense.env.toolchain.path": "/home/yuto/spresenseenv/usr/bin",
+		"cortex-debug.armToolchainPath": "/home/yuto/spresenseenv/usr/bin",
+		"cortex-debug.openocdPath": "/home/yuto/spresenseenv/windows/bin/openocd",
+		"spresense.env.extension.path": "/home/yuto/.vscode-server/extensions/sony-spresense.spresense-vscode-ide-1.5.101"
+	}
+}
